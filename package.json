@@ -1,0 +1,10 @@
+{
+  "name": "coderx-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix app run build",
+    "dev": "npm --prefix app run dev",
+    "start": "node server/index.js"
+  }
+}
